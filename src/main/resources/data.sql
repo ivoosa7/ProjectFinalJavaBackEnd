@@ -1,0 +1,2 @@
+INSERT INTO AGENDA (TITULO, DESCRICAO, DATA, HORA, LOCAL) VALUES ('Prova', 'Prova com todo o conteúdo aprendido neste bimestre', '10-12-2024', '07:40:00', 'Fatec Itu, Itu');
+INSERT INTO AGENDA (TITULO, DESCRICAO, DATA, HORA, LOCAL) VALUES ('Prova 2', 'Prova com todo o conteúdo aprendido neste bimestre', '11-12-2024', '07:30:00', 'Fatec Itu, Itu');

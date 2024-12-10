@@ -20,6 +20,8 @@ public class Agenda implements Serializable{
     private String hora;
     private String local;
 
+    
+
     public Long getId() {
         return id;
     }
